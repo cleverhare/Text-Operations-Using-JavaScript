@@ -56,4 +56,4 @@ HTML, CSS,  JavaScript
 ## Acknoledgement
 
 Thanks for making it till the very end. Have a nice day. And don't forget to view it [Live](text-transformer-cleverhare.netlify.app) 
-)
+
