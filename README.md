@@ -38,7 +38,7 @@ Once done clone it on your local machine and do the changes. And accodingly gene
 
 #### Can I view it without downloading ?
 
-Yes ofcourse. You can view it online at amansarraf.github.io/Opensource-Buddy/
+Yes ofcourse. You can view it online at text-transformer-cleverhare.netlify.app
 
 
 
@@ -55,4 +55,5 @@ HTML, CSS,  JavaScript
 
 ## Acknoledgement
 
-Thanks for making it till the very end. Have a nice day
+Thanks for making it till the very end. Have a nice day. And don't forget to view it [Live](text-transformer-cleverhare.netlify.app) 
+)
